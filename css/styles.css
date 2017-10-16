@@ -1,0 +1,25 @@
+html *
+{
+   font-size: medium;
+}
+.phoneScreen
+{
+	height: 200px;
+}
+.page-footer-container .page-footer--bottom
+{
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%
+}
+.page-footer
+{
+	width:100%;
+	color:rgba(255,255,255,0.6);
+	font-size:14px;
+	line-height:16px
+}
+#brand-image {
+    height: 25px;
+}
